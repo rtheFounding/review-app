@@ -1,0 +1,39 @@
+{
+    "restaurants": [
+        {
+            "id": 1,
+            "name": "Taste of Italy",
+            "description": "Authentic Italian restaurant with a wide selection of pasta and pizza dishes.",
+            "location": "123 Main Street, Atlanta, USA",
+            "Rating": 4.6
+        },
+        {
+            "id": 2,
+            "name": "Sushi Haven",
+            "description": "Japanese sushi bar serving fresh and delicious sushi rolls.",
+            "location": "456 Maple Avenue, Atlanta, USA",
+            "Rating": 4.2
+        },
+        {
+            "id": 3,
+            "name": "Le Petit Paris",
+            "description": "Charming French bistro offering classic French cuisine in a cozy setting.",
+            "location": "789 Oak Lane, Atlanta, USA",
+            "Rating": 4.8
+        },
+        {
+            "id": 4,
+            "name": "Spice of India",
+            "description": "Aromatic Indian restaurant specializing in various curry dishes.",
+            "location": "101 Elm Street, Atlanta, USA",
+            "Rating": 4.7
+        },
+        {
+            "id": 5,
+            "name": "MexiCali Grill",
+            "description": "Fusion restaurant blending Mexican and Californian flavors.",
+            "location": "222 Pine Road, Atlanta, USA",
+            "Rating": 4.5
+        }
+    ]
+}
